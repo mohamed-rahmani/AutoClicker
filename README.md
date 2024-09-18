@@ -6,7 +6,7 @@ You can change the toggle key in line 6 of the `autoclicker.py` script.
 
 To run this script you need to install the pynput module :
 
-```
+```bash
 sudo apt install python3-pynput
 # or
 pip install pynput
