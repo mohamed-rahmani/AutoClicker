@@ -1,4 +1,4 @@
-# AutoClicker
+# AutoClicker for Ubuntu on Xorg
 
 Just an automatic clicker for the left button of a mouse.
 
